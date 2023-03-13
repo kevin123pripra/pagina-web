@@ -19,6 +19,10 @@ body{
     max-width: 100%;
     
 }
+.menu. hover{
+    background-color: red;
+    color: black;
+}
 .menu a {
     background: linear-gradient(to left,gray,beige,gray);
     padding: 0.9rem;
@@ -31,6 +35,7 @@ body{
     max-width: 15%;
     text-decoration: none;
     color: black;
+    
     text-align: center;
     }
    .img1{
